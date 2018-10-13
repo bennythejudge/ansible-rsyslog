@@ -1,6 +1,8 @@
 Role Name
 =========
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/ansible-rsyslog.svg)](https://www.guardrails.io)
+
 Installs rsyslog (Configurable and remote syslog server ready)
 
 Requirements
